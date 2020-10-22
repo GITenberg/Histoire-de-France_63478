@@ -1,0 +1,25 @@
+_repo: Histoire-de-France_63478
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bainville, Jacques
+    birthdate: 1879
+    deathdate: 1936
+    gutenberg_agent_id: '52467'
+    url: http://www.gutenberg.org/2009/agents/52467
+description: ''
+gutenberg_issued: '2020-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63478'
+  lccn: '24011649'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History'
+- !lcc 'DC'
+- GITenberg
+title: Histoire de France
+url: http://www.gutenberg.org/ebooks/63478
